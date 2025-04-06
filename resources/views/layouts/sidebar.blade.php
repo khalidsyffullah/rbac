@@ -12,16 +12,48 @@
     <ul class="sidebar-nav">
         <li class="sidebar-item">
             <a href="#" class="sidebar-link">
-                <i class="bi bi-person"></i>
-                <span>Profile</span>
+                <i class="bi bi-speedometer2"></i>
+                <span>Dashboard</span>
             </a>
         </li>
         <li class="sidebar-item">
             <a href="#" class="sidebar-link">
-                <i class="bi bi-list-check"></i>
-                <span>Task</span>
+                <i class="bi bi-file-earmark-text"></i>
+                <span>Reports</span>
             </a>
         </li>
+        <li class="sidebar-item">
+            <a href="#" class="sidebar-link">
+                <i class="bi bi-journal-bookmark"></i>
+                <span>LaserBook</span>
+            </a>
+        </li>
+        <li class="sidebar-item">
+            <a href="#" class="sidebar-link">
+                <i class="bi bi-tags"></i>
+                <span>Price Catalogue</span>
+            </a>
+        </li>
+        <li class="sidebar-item">
+            <a href="#" class="sidebar-link">
+                <i class="bi bi-journal-bookmark"></i>
+                <span>LaserBook</span>
+            </a>
+        </li>
+        <li class="sidebar-item">
+            <a href="#" class="sidebar-link">
+                <i class="bi bi-people"></i>
+                <span>Clients</span>
+            </a>
+        </li>
+        <li class="sidebar-item">
+            <a href="#" class="sidebar-link">
+                <i class="bi bi-receipt"></i>
+                <span>Billings</span>
+            </a>
+        </li>
+
+
         <li class="sidebar-item">
             <a href="#" class="sidebar-link collapsed has-dropdown" data-bs-toggle="collapse"
                 data-bs-target="#admin-settings" aria-expanded="false" aria-controls="admin-settings">

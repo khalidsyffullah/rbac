@@ -3,7 +3,7 @@
     <div class="container mt-5">
         <div class="row justify-content-center">
             <div class="col-md">
-                <div class="card shadow-sm">
+                <div class="card shadow border-0">
                     <div class="card-header bg-white">
                         <div class="d-flex align-items-center justify-content-between">
                             <h5 class="m-3 fw-bold">{{ __('Roles') }}</h5>

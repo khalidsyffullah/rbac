@@ -2,9 +2,9 @@
 
 @section('content')
 <div class="container my-5">
-    <div class="card shadow">
+    <div class="card shadow border-0">
         <div class="card-header d-flex justify-content-between align-items-center bg-dark text-white py-3">
-            <h3 class="mb-0 fw-bold">User Details</h3>
+            <h5 class="mb-0 fw-bold">User Details</h5>
             <div>
                 <a class="btn btn-outline-light btn-sm rounded-pill ms-2" href="{{ route('users.index') }}" data-bs-toggle="tooltip" data-bs-placement="top" title="Back to Users">
                     <i class="bi bi-arrow-left-circle-fill"></i> <span class="d-none d-md-inline">Back</span>
